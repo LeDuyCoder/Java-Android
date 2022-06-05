@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="normal">Check Vocabulary App</string>
+    <string name="popup_learn_write">Write Learn</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_out">Back Screen</string>
+    <string name="popup_lern_normal">Normal Learn</string>
+</resources>

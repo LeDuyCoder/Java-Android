@@ -1,0 +1,8 @@
+<resources>
+    <string name="normal">Check Vocabulary App</string>
+    <string name="popup_learn_write">Viết Từ</string>
+    <string name="btn_back">Trước</string>
+    <string name="btn_next">Tiếp</string>
+    <string name="btn_out">Thoát</string>
+    <string name="popup_lern_normal">Bình thường</string>
+</resources>
